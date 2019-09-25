@@ -1,0 +1,8 @@
+Through my analysis, I noticed that some of the most interesting trends included gender, with men showing a much greater increase in active ridership participation than women.
+This could suggest that women are choosing to drive more than ride bikes as a means to commute. 
+I also noticed that women have a longer trip duration than men, especially women born in the early 2000s. Considering that young 
+women born around that time, most are either taking public transportation or getting driven by family members or friends to specified destinations.
+In terms of total trips taken on Citibikes from year 2018, data shows that the majority of trips occur in May. This phenomenom could be influenced by 
+the peaking warmer weather during the month of May heading into summer. 
+Lastly, the most popular citybike start and end location for bikers is Grove Street Path in Manhattan which, with further analysis on the location,
+can determine why that is a common meeting zone for bikers. 
